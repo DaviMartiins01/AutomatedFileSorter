@@ -1,6 +1,6 @@
 import os, shutil
 
-path = r"C:/Users/davib/Documents/Mess/"
+path = r"C:/Users/davib/Documents/Projetos/AutomatedFileSorter"
 
 file_name = os.listdir(path)
 
